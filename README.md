@@ -7,11 +7,11 @@ All assets, objects, and codes is contained within the project file.
 
 Level 1:
 
-<img src="level 3.gif" width="500"/>
+<img src="level 1.gif" width="500"/>
 
 Level 2:
 
-<img src="level 3.gif" width="500"/>
+<img src="level 2.gif" width="500"/>
 
 Level 3:
 
