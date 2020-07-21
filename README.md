@@ -3,7 +3,8 @@ A simple, vibrant little 2D platformer made wth Game Maker.  This prototype can 
 
 All assets, objects, and codes is contained within the project file.  Most entities, such as the collectiblces, portals, spikes, platforms, etc. are borrowed assets.  I designed the robot and enemy sprites from scratch.
 
-## Preview Footage (may take a bit for the gifs to load fully)
+## Preview Footage 
+(please wait for the gifs to load fully)
 
 ### Level 1:
 
